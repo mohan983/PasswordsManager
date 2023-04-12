@@ -1,0 +1,16 @@
+.noPasswords-image {
+  height: 20vh;
+  width: 23vw;
+}
+
+.noPasswords-paragraph {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.noPasswords-container {
+  background-color: transparent;
+  padding: 0px;
+  padding-bottom: 15px;
+  text-align: center;
+}
